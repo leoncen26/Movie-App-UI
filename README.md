@@ -17,8 +17,6 @@ Aplikasi ini dibuat melalui tutorial dari Youtube dengan channel UiLover berjudu
 - 🔍 Mencari film yang telah di rilis berdasarkan judul
 
 ## 🖼️ Tangkapan Layar
-
-## 🖼️ Tangkapan Layar
 | Home Page | Detail Page |
 |----------------|--------------------|
 | ![Home Page](https://github.com/leoncen26/Movie-App-UI/blob/main/app/src/main/java/com/example/movie_app/images/SS-Movie-App/home.jpg?raw=true) | ![Detail Page](https://github.com/leoncen26/Movie-App-UI/blob/main/app/src/main/java/com/example/movie_app/images/SS-Movie-App/detail.jpg?raw=true) |
